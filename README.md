@@ -3,3 +3,5 @@
 #### Input Image :
 
 ![](sample_single.png)
+
+![](d_1.jpg)
